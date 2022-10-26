@@ -6,8 +6,7 @@ const App = () => {
     return (
         <>
             <MainHeader />
-            <MainProducts />
-            <h3>Actualizacion</h3>     
+            <MainProducts />  
         </>
     )
 }
